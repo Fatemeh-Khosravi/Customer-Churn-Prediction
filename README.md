@@ -28,3 +28,5 @@ estimated_salary -- salary of account holder (numerical)
 churn -- 1/0 for churn status
 
 There are roughly 2000 records for churn and 8000 for non-churn, so this data is imbalanced as well for the classification problem.
+
+The final notebook with the final modeling, results, and explanations are in the main branch under ADS505-FinalProject-ChrunPrediction. The link is here: https://github.com/ruddysimon/ADS505-Finall-project/blob/main/ADS505-FinalProject-ChrunPrediction.ipynb
