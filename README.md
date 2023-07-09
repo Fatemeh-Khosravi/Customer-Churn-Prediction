@@ -1,4 +1,4 @@
-# ADS505-Final-project
+
 
 The goal of this project is to predict for churn and identify features that contribute to churn for MultiState Bank. 
 
